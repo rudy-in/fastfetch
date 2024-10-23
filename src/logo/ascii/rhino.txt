@@ -1,0 +1,19 @@
+${c1}            ..','..      l.           
+${c1}        .,coooooooooc,..ool           
+${c1}      ;oooooooooooooooooooo.,coo.     
+${c1}    ;oooooooooooooooooooooooooo      ,
+${c1}  .ooooooooooooooooooooooooooo   .  ,o
+${c1}  oollcccccccccllloooooooooooolcoo..oo
+${c1} ll${c6};'${c4}:::::::::::::::${c1}ccloooooooooooooo:
+${c1}.;${c6}'''${c4};::::::::::::::::::${c1}ccloooooooooo 
+${c6}''''',${c4}:::::::::::::::::::::::${c1}cclllllc 
+${c6}''''''${c4};:::::::::::::::::::::::::::::: 
+${c6}.''''''${c4};::::::::::::::::${c2}ll${c4}::::::::::: 
+${c6} '''''''${c4};:::::::::::::::${c2}d0${c4}::          
+${c6} .''''''',${c4};:::::::${c2}cc${c4}::::${c2}0N${c4}:'          
+${c6}  ''''''''',,${c4};::::${c2}cK${c4}:::${c2}dMX${c4},           
+${c6}   ''''''''''''${c4},,,${c2}dMccOMM${c4}:            
+${c6}    .''''''''''''${c2}cWM0WMM.             
+${c6}      '''''''':${c2}kMMMMM.               
+${c6}         ${c2}odxONMMMM                   
+${c6}            ${c2};Kl   
